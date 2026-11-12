@@ -1,0 +1,6 @@
+raw/
+cand_*.json
+dcand_*.json
+__pycache__/
+*.pyc
+.DS_Store
